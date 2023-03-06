@@ -21,3 +21,11 @@ body{
 #start, #status{
     font-size: 22px;
 }
+h4{
+    background-color: #f5f5f5;
+    line-height:2;
+    margin: 0x;
+}
+.modal-dialog{
+    width:90%;
+}
